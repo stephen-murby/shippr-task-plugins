@@ -1,3 +1,7 @@
+# Find Go Vagrant Server information here.
+# https://www.gocd.io/2015/08/05/Go-Sample-Virtualbox/
+
+
 --- Local Machine ---
 cd /Users/stephen.murby/repos/git/autotrader-shippr-task-plugin
 ./gradlew jar  
